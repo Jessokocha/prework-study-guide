@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a prework study guide web application that proides basic information about HTML, CSS, Git and Java Script. The aim of this application is to aid students succeed during the Front-end web development bootcamp. Creating this web application helped with understanding and applying the relationship between HTML, CSS and Java Script.
+This is a prework study guide web application that provides basic information about HTML, CSS, Git and Java Script. The aim of this application is to aid students succeed during the Front-end web development bootcamp. Creating this web application helped with understanding and applying the relationship between HTML, CSS and Java Script.
 
 ## Installation
 
